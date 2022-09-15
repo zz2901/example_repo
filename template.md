@@ -16,7 +16,7 @@ length(samp)
 
 # Section 2
 
-I can take the mean of the sample, too! The mean is -0.01.
+I can take the mean of the sample, too! The mean is 0.06.
 
 # Section 3
 
@@ -46,4 +46,8 @@ ggplot(la_df,aes(x=abs_norm))+geom_histogram()
 
 ![](template_files/figure-gfm/learning_assessment-1.png)<!-- -->
 
-Here’s a list: \* item 1 \* item 2
+Here’s a list:
+
+-   Item 1
+-   Item 2
+    -   sub item 1

@@ -58,5 +58,7 @@ ggplot(la_df,aes(x=abs_norm))+geom_histogram()
 ```
 
 Here's a list:
-* item 1
-* item 2
+
+* Item 1
+* Item 2
+  + sub item 1
